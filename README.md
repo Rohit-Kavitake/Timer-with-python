@@ -1,3 +1,3 @@
 # Timer-with-Python
-This a Basic Timer script which plays the songs on Youtube at the end of timer.
+This a Timer script which plays the songs on Youtube at the end of timer.
 make sure you add your favourite songs in the url list <3
